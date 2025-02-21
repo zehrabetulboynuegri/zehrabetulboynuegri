@@ -54,9 +54,10 @@
 
 ## 📊 GitHub Stats
 
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zehrabetulboynuegri&theme=radical)
 
- [<img src="https://github-readme-streak-stats.herokuapp.com/?user=zehrabetulboynuegri&theme=radical" alt="GitHub Streak" width="500"/>](https://github-readme-streak-stats.herokuapp.com/?user=zehrabetulboynuegri&theme=radical)
- [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehrabetulboynuegri&layout=compact&theme=radical" alt="GitHub Streak" width="500"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=zehrabetulboynuegri&layout=compact&theme=radical)
+
+ [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehrabetulboynuegri&layout=compact&theme=radical"  width="500"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=zehrabetulboynuegri&layout=compact&theme=radical)
 ---
 
 
