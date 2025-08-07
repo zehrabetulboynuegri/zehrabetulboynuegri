@@ -12,7 +12,7 @@
 
 🎓 Graduated from **Pamukkale University** with a Bachelor's degree in **Computer Engineering** (2019).  
 💻 Passionate about **Full Stack Development**, **Cloud Technologies**, and **Cybersecurity**.  
-🏢 Currently working at **InnoCentrum Enterprise Innovation Management** as a Full Stack Software Engineer.  
+🏢 Currently working at **GİB Teknoloji** as a Full Stack Software Engineer.  
 🔍 Experienced in **Backend Development (Spring Boot, Java 8, 11, 17) and Frontend Development (React.js, Redux, TypeScript).)**.  
 ☁ Familiar with **AWS, Terraform, Docker, and CI/CD (GitHub Actions)**.  
 
